@@ -1,0 +1,151 @@
+{
+  "Mon": [
+    {
+      "dj": "DJ Snap",
+      "time": "17:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ Kaiser",
+      "time": "19:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ Sushi",
+      "time": "21:00",
+      "duration": 2
+    }
+  ],
+  "Tue": [
+    {
+      "dj": "DJ K & Jellyfish",
+      "time": "19:00",
+      "duration": 2
+    }
+  ],
+  "Wed": [
+    {
+      "dj": "DJ Komatose",
+      "time": "17:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ KrayZ",
+      "time": "19:00",
+      "duration": 2
+    },
+    {
+      "dj": "D Double G",
+      "time": "21:00",
+      "duration": 2
+    }
+  ],
+  "Thu": [
+    {
+      "dj": "Kingdom",
+      "time": "09:00",
+      "duration": 2
+    },
+    {
+      "dj": "Bezzaman",
+      "time": "17:00",
+      "duration": 2
+    },
+    {
+      "dj": "Big Choc",
+      "time": "19:00",
+      "duration": 2
+    },
+    {
+      "dj": "Captain Apathy",
+      "time": "21:00",
+      "duration": 2
+    }
+  ],
+  "Fri": [
+    {
+      "dj": "Skitzee",
+      "time": "15:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ UFC",
+      "time": "17:00",
+      "duration": 2
+    },
+    {
+      "dj": "The Abyss",
+      "time": "19:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ Tee",
+      "time": "21:00",
+      "duration": 2
+    }
+  ],
+  "Sat": [
+    {
+      "dj": "Dj Astro",
+      "time": "09:00",
+      "duration": 3
+    },
+    {
+      "dj": "DJ CHZ",
+      "time": "12:00",
+      "duration": 3
+    },
+    {
+      "dj": "DJ GLT",
+      "time": "15:00",
+      "duration": 2
+    },
+    {
+      "dj": "Jack Of House",
+      "time": "17:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ Forstar",
+      "time": "19:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ Hardwick",
+      "time": "21:00",
+      "duration": 2
+    }
+  ],
+  "Sun": [
+    {
+      "dj": "Dj RD",
+      "time": "09:00",
+      "duration": 3
+    },
+    {
+      "dj": "DJ Stixx",
+      "time": "12:00",
+      "duration": 3
+    },
+    {
+      "dj": "Hydrus X",
+      "time": "15:00",
+      "duration": 2
+    },
+    {
+      "dj": "DJ Chinks",
+      "time": "17:00",
+      "duration": 2
+    },
+    {
+      "dj": "0121 DJ Slim",
+      "time": "19:00",
+      "duration": 2
+    },
+    {
+      "dj": "SirkitBr8ker",
+      "time": "21:00",
+      "duration": 2
+    }
+  ]
+}
